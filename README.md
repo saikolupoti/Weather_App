@@ -16,12 +16,6 @@ A modern, sleek **Weather App** that lets you check the weather conditions of an
 
 ---
 
-## 🎬 Demo
-
-Check out the live demo of the app here: [Live Demo](#) *(Replace with your deployed link)*.
-
----
-
 ## 🛠️ Technologies Used
 
 - **HTML5** for structure and content.
