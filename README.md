@@ -23,5 +23,3 @@ A modern, sleek **Weather App** that lets you check the weather conditions of an
 - **JavaScript (ES6)** for dynamic features such as fetching weather data and theme toggling.
 - **Font Awesome** for attractive icons.
 - **OpenWeather API** for fetching real-time weather data.
-
----
